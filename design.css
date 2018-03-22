@@ -1,0 +1,61 @@
+.image1
+{
+
+width: 50%;
+
+}
+
+.image2
+{
+
+width: 90%;
+}
+
+.image3
+{
+width: 80%;
+padding: 10px;
+margin-left: 5%;
+}
+
+
+h1
+{
+font-family: 'Roboto', sans-serif;
+text-align: center;
+font-size: 50px;
+
+}
+
+h2
+{
+font-family: 'Roboto', sans-serif;
+text-align: center;
+font-size: 30px;
+padding: 0;
+padding-left: 30%;
+padding-right: 30%;
+
+}
+
+h3
+{
+font-family: 'Roboto', sans-serif;
+text-align: center;
+font-size: 30px;
+padding: 0;
+padding-left: 30%;
+padding-right: 30%;
+
+}
+
+h4
+{
+font-family: 'Roboto', sans-serif;
+text-align: center;
+font-size: 30px;
+padding: 0;
+padding-left: 30%;
+padding-right: 30%;
+
+}
